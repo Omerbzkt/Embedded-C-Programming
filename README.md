@@ -1,3 +1,3 @@
 # Embedded-C-Programming
 
-Embdedded C Programming with STM32F411CEU6 
+Register Based Embedded C Programming with STM32F411CEU6 
